@@ -1,3 +1,8 @@
+# Frederick Wittman
+# Robin K. Hill
+# COSC 2030-01
+# 04 February 2019
+
 print("Hello Github!")                             # Print the text to the console window
 file_squestns = open('StudentQuestions.txt', 'r')  # Open the file for reading
 file_sanswers = open('StudentAnswers.txt', 'w')    # Open the file for writing
