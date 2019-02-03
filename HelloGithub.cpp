@@ -1,4 +1,8 @@
-// CPP program 
+// Frederick Wittman
+// Robin K. Hill
+// COSC 2030-01
+// 04 February 2019
+
 #include "stdafx.h" // includes common files
 #include <iostream> // provides basic input/output services
 #include <fstream> // input/output class for file operations
