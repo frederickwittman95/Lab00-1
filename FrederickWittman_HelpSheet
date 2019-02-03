@@ -1,0 +1,20 @@
+Frederick Wittman
+Instructor: Robin Hill
+COSC 2030-01
+Due date: 04 February 2019
+
+1.  To comment C++ code:
+
+    Inserting "//" will identify everything after this symbol as a comment on a single line.  To add a block comment that can span
+    multiple lines, insert the desired comment between the asterisks of the "/* */" symbol.
+    
+2.  To comment Python code:
+
+    The "#" symbol is used to comment out a single line.  To identify a block of code as a comment, insert the code between three
+    double quotation marks, literally: """comment""".
+    
+3.  What kind of file has extension ".md"?
+
+    Markdown files have extension ".md".  Markdown languages control the styling of webpages and other computer interfaces using
+    plain text.  The primary example of a markdown language is HTML.
+
